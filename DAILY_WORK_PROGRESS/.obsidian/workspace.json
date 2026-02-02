@@ -50,23 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "01c2ee30ecb072db",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5a0d94b1597a1732",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "ac2bd4570babfd66",
@@ -228,7 +212,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "dad12269417f93e9",
+  "active": "4c5221383af67ed3",
   "lastOpenFiles": [
     "📅 Daily Progress Report.md",
     "DAILY PROGRESS REPORT.md",

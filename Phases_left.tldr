@@ -1,0 +1,1297 @@
+{
+	"tldrawFileFormatVersion": 1,
+	"schema": {
+		"schemaVersion": 2,
+		"sequences": {
+			"com.tldraw.store": 5,
+			"com.tldraw.asset": 1,
+			"com.tldraw.camera": 1,
+			"com.tldraw.document": 2,
+			"com.tldraw.instance": 25,
+			"com.tldraw.instance_page_state": 5,
+			"com.tldraw.page": 1,
+			"com.tldraw.instance_presence": 6,
+			"com.tldraw.pointer": 1,
+			"com.tldraw.shape": 4,
+			"com.tldraw.asset.bookmark": 2,
+			"com.tldraw.asset.image": 5,
+			"com.tldraw.asset.video": 5,
+			"com.tldraw.shape.group": 0,
+			"com.tldraw.shape.text": 4,
+			"com.tldraw.shape.bookmark": 2,
+			"com.tldraw.shape.draw": 4,
+			"com.tldraw.shape.geo": 11,
+			"com.tldraw.shape.note": 10,
+			"com.tldraw.shape.line": 5,
+			"com.tldraw.shape.frame": 1,
+			"com.tldraw.shape.arrow": 8,
+			"com.tldraw.shape.highlight": 3,
+			"com.tldraw.shape.embed": 4,
+			"com.tldraw.shape.image": 5,
+			"com.tldraw.shape.video": 4,
+			"com.tldraw.binding.arrow": 1
+		}
+	},
+	"records": [
+		{
+			"x": 0,
+			"y": 0,
+			"lastActivityTimestamp": 0,
+			"meta": {},
+			"id": "pointer:pointer",
+			"typeName": "pointer"
+		},
+		{
+			"x": 0,
+			"y": 0,
+			"z": 1,
+			"meta": {},
+			"id": "camera:page:Xfg7FhQ6cErsgWcHEpmqb",
+			"typeName": "camera"
+		},
+		{
+			"x": 318.4749516558468,
+			"y": 210.43145357938693,
+			"z": 0.3620307845100972,
+			"meta": {},
+			"id": "camera:page:page",
+			"typeName": "camera"
+		},
+		{
+			"editingShapeId": null,
+			"croppingShapeId": null,
+			"selectedShapeIds": [
+				"shape:nTcPtviCs8PKDnwI2T0bi"
+			],
+			"hoveredShapeId": "shape:nTcPtviCs8PKDnwI2T0bi",
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:page",
+			"pageId": "page:page",
+			"typeName": "instance_page_state"
+		},
+		{
+			"meta": {},
+			"id": "page:Xfg7FhQ6cErsgWcHEpmqb",
+			"name": "Phases_left",
+			"index": "a2XyNdBV",
+			"typeName": "page"
+		},
+		{
+			"x": 175.74653302406398,
+			"y": -816.4607763721967,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:xTwHKRhSeVy776r1go1KS",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 1228.3337902119833,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "heading",
+							"attrs": {
+								"dir": "auto",
+								"level": 3
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "📉 Phase 1: Feature Engineering (Maths Logic) - "
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "italic"
+										}
+									],
+									"text": "Next Step"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Abhi data computer ke samajhne layak nahi hai. Humein kuch calculations karni hain."
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"marks": [
+														{
+															"type": "bold"
+														}
+													],
+													"text": "Kya baki hai:"
+												}
+											]
+										},
+										{
+											"type": "orderedList",
+											"attrs": {
+												"dir": "auto",
+												"start": 1,
+												"type": null
+											},
+											"content": [
+												{
+													"type": "listItem",
+													"attrs": {
+														"dir": "auto"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"dir": "auto"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"marks": [
+																		{
+																			"type": "bold"
+																		}
+																	],
+																	"text": "Balls Left:"
+																},
+																{
+																	"type": "text",
+																	"text": " Kitni ballein bachi hain? (Calculation)."
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "listItem",
+													"attrs": {
+														"dir": "auto"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"dir": "auto"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"marks": [
+																		{
+																			"type": "bold"
+																		}
+																	],
+																	"text": "Wickets Left:"
+																},
+																{
+																	"type": "text",
+																	"text": " Kitni wickets haath mein hain?"
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "listItem",
+													"attrs": {
+														"dir": "auto"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"dir": "auto"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"marks": [
+																		{
+																			"type": "bold"
+																		}
+																	],
+																	"text": "CRR (Current Run Rate):"
+																},
+																{
+																	"type": "text",
+																	"text": " Kis speed se run ban rahe hain?"
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "listItem",
+													"attrs": {
+														"dir": "auto"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"dir": "auto"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"marks": [
+																		{
+																			"type": "bold"
+																		}
+																	],
+																	"text": "Last 5 Overs Runs:"
+																},
+																{
+																	"type": "text",
+																	"text": " Aakhri 30 balls mein kitne bane? (Form check karne ke liye)."
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "listItem",
+													"attrs": {
+														"dir": "auto"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"dir": "auto"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"marks": [
+																		{
+																			"type": "bold"
+																		}
+																	],
+																	"text": "Encoding:"
+																},
+																{
+																	"type": "text",
+																	"text": " Teams ke naam (e.g., \"Mumbai Indians\") ko numbers (e.g., 1, 0, 0) mein badalna."
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "heading",
+							"attrs": {
+								"dir": "auto",
+								"level": 3
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "🤖 Phase 2: Machine Learning (The Magic) - "
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "italic"
+										}
+									],
+									"text": "PDF Tasks 6, 7, 10"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Yahan hum Scikit-Learn use karenge."
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"marks": [
+														{
+															"type": "bold"
+														}
+													],
+													"text": "Kya baki hai:"
+												}
+											]
+										},
+										{
+											"type": "orderedList",
+											"attrs": {
+												"dir": "auto",
+												"start": 1,
+												"type": null
+											},
+											"content": [
+												{
+													"type": "listItem",
+													"attrs": {
+														"dir": "auto"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"dir": "auto"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"marks": [
+																		{
+																			"type": "bold"
+																		}
+																	],
+																	"text": "Split Data:"
+																},
+																{
+																	"type": "text",
+																	"text": " Data ko 2 hisson mein baatna (Training vs Testing)."
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "listItem",
+													"attrs": {
+														"dir": "auto"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"dir": "auto"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"marks": [
+																		{
+																			"type": "bold"
+																		}
+																	],
+																	"text": "Model 1 (Score Predictor):"
+																},
+																{
+																	"type": "text",
+																	"text": " Regression Model train karna."
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "listItem",
+													"attrs": {
+														"dir": "auto"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"dir": "auto"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"marks": [
+																		{
+																			"type": "bold"
+																		}
+																	],
+																	"text": "Model 2 (Win Predictor):"
+																},
+																{
+																	"type": "text",
+																	"text": " Classification Model train karna."
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "listItem",
+													"attrs": {
+														"dir": "auto"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"dir": "auto"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"marks": [
+																		{
+																			"type": "bold"
+																		}
+																	],
+																	"text": "Accuracy Check:"
+																},
+																{
+																	"type": "text",
+																	"text": " Check karna ki model kitna sahi bata raha hai."
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "heading",
+							"attrs": {
+								"dir": "auto",
+								"level": 3
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "💻 Phase 3: Website/Dashboard (Streamlit)"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Abhi sab kuch code mein hai, isse sundar website banana hai."
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"marks": [
+														{
+															"type": "bold"
+														}
+													],
+													"text": "Kya baki hai:"
+												}
+											]
+										},
+										{
+											"type": "orderedList",
+											"attrs": {
+												"dir": "auto",
+												"start": 1,
+												"type": null
+											},
+											"content": [
+												{
+													"type": "listItem",
+													"attrs": {
+														"dir": "auto"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"dir": "auto"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"marks": [
+																		{
+																			"type": "bold"
+																		}
+																	],
+																	"text": "Frontend Design:"
+																},
+																{
+																	"type": "text",
+																	"text": " Dropdowns, Buttons, Background Image."
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "listItem",
+													"attrs": {
+														"dir": "auto"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"dir": "auto"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"marks": [
+																		{
+																			"type": "bold"
+																		}
+																	],
+																	"text": "Connection:"
+																},
+																{
+																	"type": "text",
+																	"text": " Python Logic ko Website se jodna."
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:Xfg7FhQ6cErsgWcHEpmqb",
+			"index": "a1ddNWmV",
+			"typeName": "shape"
+		},
+		{
+			"x": 329.720442360912,
+			"y": -106.93426590133805,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:nTcPtviCs8PKDnwI2T0bi",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 1230.7708740234375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "heading",
+							"attrs": {
+								"dir": "auto",
+								"level": 3
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "📉 Phase 1: Feature Engineering (Maths Logic) - "
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "italic"
+										}
+									],
+									"text": "Next Step"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Abhi data computer ke samajhne layak nahi hai. Humein kuch calculations karni hain."
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"marks": [
+														{
+															"type": "bold"
+														}
+													],
+													"text": "Kya baki hai:"
+												}
+											]
+										},
+										{
+											"type": "orderedList",
+											"attrs": {
+												"dir": "auto",
+												"start": 1,
+												"type": null
+											},
+											"content": [
+												{
+													"type": "listItem",
+													"attrs": {
+														"dir": "auto"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"dir": "auto"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"marks": [
+																		{
+																			"type": "bold"
+																		}
+																	],
+																	"text": "Balls Left:"
+																},
+																{
+																	"type": "text",
+																	"text": " Kitni ballein bachi hain? (Calculation)."
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "listItem",
+													"attrs": {
+														"dir": "auto"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"dir": "auto"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"marks": [
+																		{
+																			"type": "bold"
+																		}
+																	],
+																	"text": "Wickets Left:"
+																},
+																{
+																	"type": "text",
+																	"text": " Kitni wickets haath mein hain?"
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "listItem",
+													"attrs": {
+														"dir": "auto"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"dir": "auto"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"marks": [
+																		{
+																			"type": "bold"
+																		}
+																	],
+																	"text": "CRR (Current Run Rate):"
+																},
+																{
+																	"type": "text",
+																	"text": " Kis speed se run ban rahe hain?"
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "listItem",
+													"attrs": {
+														"dir": "auto"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"dir": "auto"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"marks": [
+																		{
+																			"type": "bold"
+																		}
+																	],
+																	"text": "Last 5 Overs Runs:"
+																},
+																{
+																	"type": "text",
+																	"text": " Aakhri 30 balls mein kitne bane? (Form check karne ke liye)."
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "listItem",
+													"attrs": {
+														"dir": "auto"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"dir": "auto"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"marks": [
+																		{
+																			"type": "bold"
+																		}
+																	],
+																	"text": "Encoding:"
+																},
+																{
+																	"type": "text",
+																	"text": " Teams ke naam (e.g., \"Mumbai Indians\") ko numbers (e.g., 1, 0, 0) mein badalna."
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "heading",
+							"attrs": {
+								"dir": "auto",
+								"level": 3
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "🤖 Phase 2: Machine Learning (The Magic) - "
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "italic"
+										}
+									],
+									"text": "PDF Tasks 6, 7, 10"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Yahan hum Scikit-Learn use karenge."
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"marks": [
+														{
+															"type": "bold"
+														}
+													],
+													"text": "Kya baki hai:"
+												}
+											]
+										},
+										{
+											"type": "orderedList",
+											"attrs": {
+												"dir": "auto",
+												"start": 1,
+												"type": null
+											},
+											"content": [
+												{
+													"type": "listItem",
+													"attrs": {
+														"dir": "auto"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"dir": "auto"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"marks": [
+																		{
+																			"type": "bold"
+																		}
+																	],
+																	"text": "Split Data:"
+																},
+																{
+																	"type": "text",
+																	"text": " Data ko 2 hisson mein baatna (Training vs Testing)."
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "listItem",
+													"attrs": {
+														"dir": "auto"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"dir": "auto"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"marks": [
+																		{
+																			"type": "bold"
+																		}
+																	],
+																	"text": "Model 1 (Score Predictor):"
+																},
+																{
+																	"type": "text",
+																	"text": " Regression Model train karna."
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "listItem",
+													"attrs": {
+														"dir": "auto"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"dir": "auto"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"marks": [
+																		{
+																			"type": "bold"
+																		}
+																	],
+																	"text": "Model 2 (Win Predictor):"
+																},
+																{
+																	"type": "text",
+																	"text": " Classification Model train karna."
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "listItem",
+													"attrs": {
+														"dir": "auto"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"dir": "auto"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"marks": [
+																		{
+																			"type": "bold"
+																		}
+																	],
+																	"text": "Accuracy Check:"
+																},
+																{
+																	"type": "text",
+																	"text": " Check karna ki model kitna sahi bata raha hai."
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "heading",
+							"attrs": {
+								"dir": "auto",
+								"level": 3
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "💻 Phase 3: Website/Dashboard (Streamlit)"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Abhi sab kuch code mein hai, isse sundar website banana hai."
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"marks": [
+														{
+															"type": "bold"
+														}
+													],
+													"text": "Kya baki hai:"
+												}
+											]
+										},
+										{
+											"type": "orderedList",
+											"attrs": {
+												"dir": "auto",
+												"start": 1,
+												"type": null
+											},
+											"content": [
+												{
+													"type": "listItem",
+													"attrs": {
+														"dir": "auto"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"dir": "auto"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"marks": [
+																		{
+																			"type": "bold"
+																		}
+																	],
+																	"text": "Frontend Design:"
+																},
+																{
+																	"type": "text",
+																	"text": " Dropdowns, Buttons, Background Image."
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "listItem",
+													"attrs": {
+														"dir": "auto"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"dir": "auto"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"marks": [
+																		{
+																			"type": "bold"
+																		}
+																	],
+																	"text": "Connection:"
+																},
+																{
+																	"type": "text",
+																	"text": " Python Logic ko Website se jodna."
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a1X4zGoG",
+			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "page:page",
+			"name": "work_done_till_now",
+			"index": "a1",
+			"typeName": "page"
+		},
+		{
+			"gridSize": 10,
+			"name": "",
+			"meta": {},
+			"id": "document:document",
+			"typeName": "document"
+		},
+		{
+			"editingShapeId": null,
+			"croppingShapeId": null,
+			"selectedShapeIds": [],
+			"hoveredShapeId": null,
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:Xfg7FhQ6cErsgWcHEpmqb",
+			"pageId": "page:Xfg7FhQ6cErsgWcHEpmqb",
+			"typeName": "instance_page_state"
+		},
+		{
+			"followingUserId": null,
+			"opacityForNextShape": 1,
+			"stylesForNextShape": {},
+			"brush": null,
+			"scribbles": [],
+			"cursor": {
+				"type": "default",
+				"rotation": 0
+			},
+			"isFocusMode": false,
+			"exportBackground": true,
+			"isDebugMode": false,
+			"isToolLocked": false,
+			"screenBounds": {
+				"x": 0,
+				"y": 0,
+				"w": 946,
+				"h": 378
+			},
+			"insets": [
+				false,
+				false,
+				true,
+				false
+			],
+			"zoomBrush": null,
+			"isGridMode": false,
+			"isPenMode": false,
+			"chatMessage": "",
+			"isChatting": false,
+			"highlightedUserIds": [],
+			"isFocused": true,
+			"devicePixelRatio": 1.5,
+			"isCoarsePointer": false,
+			"isHoveringCanvas": true,
+			"openMenus": [],
+			"isChangingStyle": false,
+			"isReadonly": false,
+			"meta": {},
+			"duplicateProps": null,
+			"id": "instance:instance",
+			"currentPageId": "page:page",
+			"typeName": "instance"
+		}
+	]
+}
