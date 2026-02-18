@@ -50,8 +50,8 @@
 			"typeName": "camera"
 		},
 		{
-			"x": 306.80026760505893,
-			"y": 132.92492243684154,
+			"x": 270.58378763107453,
+			"y": 41.65933719830849,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -61,7 +61,7 @@
 			"props": {
 				"color": "black",
 				"size": "m",
-				"w": 1781.02001953125,
+				"w": 1781.0208740234375,
 				"font": "draw",
 				"textAlign": "start",
 				"autoSize": true,
@@ -331,123 +331,89 @@
 													"text": "Kya kiya:"
 												}
 											]
-										},
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Purane naam fix kiye (e.g., "
+								},
+								{
+									"type": "text",
+									"marks": [
 										{
-											"type": "bulletList",
+											"type": "italic"
+										}
+									],
+									"text": "Delhi Daredevils->Delhi Capitals"
+								},
+								{
+									"type": "text",
+									"text": ")."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
 											"attrs": {
 												"dir": "auto"
 											},
 											"content": [
 												{
-													"type": "listItem",
-													"attrs": {
-														"dir": "auto"
-													},
-													"content": [
-														{
-															"type": "paragraph",
-															"attrs": {
-																"dir": "auto"
-															},
-															"content": [
-																{
-																	"type": "text",
-																	"text": "Purane naam fix kiye (e.g., "
-																},
-																{
-																	"type": "text",
-																	"marks": [
-																		{
-																			"type": "italic"
-																		}
-																	],
-																	"text": "Delhi Daredevils"
-																}
-															]
-														},
-														{
-															"type": "paragraph",
-															"attrs": {
-																"dir": "auto"
-															},
-															"content": [
-																{
-																	"type": "text",
-																	"marks": [
-																		{
-																			"type": "code"
-																		}
-																	],
-																	"text": "→→"
-																}
-															]
-														},
-														{
-															"type": "paragraph",
-															"attrs": {
-																"dir": "auto"
-															},
-															"content": [
-																{
-																	"type": "text",
-																	"marks": [
-																		{
-																			"type": "italic"
-																		}
-																	],
-																	"text": "Delhi Capitals"
-																},
-																{
-																	"type": "text",
-																	"text": ")."
-																}
-															]
-														},
-														{
-															"type": "paragraph",
-															"attrs": {
-																"dir": "auto"
-															}
-														}
-													]
+													"type": "text",
+													"text": "Filter lagaya taaki sirf "
 												},
 												{
-													"type": "listItem",
-													"attrs": {
-														"dir": "auto"
-													},
-													"content": [
+													"type": "text",
+													"marks": [
 														{
-															"type": "paragraph",
-															"attrs": {
-																"dir": "auto"
-															},
-															"content": [
-																{
-																	"type": "text",
-																	"text": "Filter lagaya taaki sirf "
-																},
-																{
-																	"type": "text",
-																	"marks": [
-																		{
-																			"type": "bold"
-																		}
-																	],
-																	"text": "Top 8 Current Teams"
-																},
-																{
-																	"type": "text",
-																	"text": " (CSK, MI, RCB, etc.) bachein."
-																}
-															]
+															"type": "bold"
 														}
-													]
+													],
+													"text": "Top 8 Current Teams"
+												},
+												{
+													"type": "text",
+													"text": " (CSK, MI, RCB, etc.) bachein."
 												}
 											]
 										}
 									]
-								},
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
 								{
 									"type": "listItem",
 									"attrs": {
@@ -836,15 +802,15 @@
 			"typeName": "shape"
 		},
 		{
-			"x": -97.14014539721836,
-			"y": -197.32320201094655,
-			"z": 0.3856422051381925,
+			"x": -221.90284973563632,
+			"y": 103.74783328638068,
+			"z": 0.4601953725517476,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
 		},
 		{
-			"editingShapeId": null,
+			"editingShapeId": "shape:SUZD0fWvNegNZgJAgVCLt",
 			"croppingShapeId": null,
 			"selectedShapeIds": [
 				"shape:SUZD0fWvNegNZgJAgVCLt"
@@ -1481,7 +1447,7 @@
 				"x": 0,
 				"y": 0,
 				"w": 946,
-				"h": 378
+				"h": 566
 			},
 			"insets": [
 				false,
